@@ -1,0 +1,7 @@
+digraph G {
+
+	node [shape=]
+	nodo0 [label = "Realizacion de Operaciones"]
+	nodo0[fontcolor = ]
+
+}
